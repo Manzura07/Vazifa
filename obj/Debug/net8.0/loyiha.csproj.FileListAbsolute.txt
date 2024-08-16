@@ -1,0 +1,14 @@
+C:\Users\manzura\OneDrive\Рабочий стол\loyiha\bin\Debug\net8.0\loyiha.exe
+C:\Users\manzura\OneDrive\Рабочий стол\loyiha\bin\Debug\net8.0\loyiha.deps.json
+C:\Users\manzura\OneDrive\Рабочий стол\loyiha\bin\Debug\net8.0\loyiha.runtimeconfig.json
+C:\Users\manzura\OneDrive\Рабочий стол\loyiha\bin\Debug\net8.0\loyiha.dll
+C:\Users\manzura\OneDrive\Рабочий стол\loyiha\bin\Debug\net8.0\loyiha.pdb
+C:\Users\manzura\OneDrive\Рабочий стол\loyiha\obj\Debug\net8.0\loyiha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manzura\OneDrive\Рабочий стол\loyiha\obj\Debug\net8.0\loyiha.AssemblyInfoInputs.cache
+C:\Users\manzura\OneDrive\Рабочий стол\loyiha\obj\Debug\net8.0\loyiha.AssemblyInfo.cs
+C:\Users\manzura\OneDrive\Рабочий стол\loyiha\obj\Debug\net8.0\loyiha.csproj.CoreCompileInputs.cache
+C:\Users\manzura\OneDrive\Рабочий стол\loyiha\obj\Debug\net8.0\loyiha.dll
+C:\Users\manzura\OneDrive\Рабочий стол\loyiha\obj\Debug\net8.0\refint\loyiha.dll
+C:\Users\manzura\OneDrive\Рабочий стол\loyiha\obj\Debug\net8.0\loyiha.pdb
+C:\Users\manzura\OneDrive\Рабочий стол\loyiha\obj\Debug\net8.0\loyiha.genruntimeconfig.cache
+C:\Users\manzura\OneDrive\Рабочий стол\loyiha\obj\Debug\net8.0\ref\loyiha.dll
